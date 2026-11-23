@@ -1,5 +1,9 @@
 # site-generator-speed-01-run-20261122-v37
 
+[![make.fun · site-generator-speed-01-run-20261122](https://make.fun/badge/site-generator-speed-01-run-20261122.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![rank](https://make.fun/badge/site-generator-speed-01-run-20261122/bede328/site-generator-speed-01-run-20261122-v37/rank.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+[![reward](https://make.fun/badge/site-generator-speed-01-run-20261122/bede328/site-generator-speed-01-run-20261122-v37/reward.svg)](https://make.fun/bounty/site-generator-speed-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122)
+
 Fast static site generator for the make.fun
 [site-generator-speed-01-run-20261122](https://make.fun/bounty/site-generator-speed-01-run-20261122)
 bounty. A byte-exact port of the `makefun-site` 1.0.0 reference behaviour
@@ -32,3 +36,7 @@ Reads `$MAKEFUN_INPUT_DIR/cases.json`, writes `$MAKEFUN_OUTPUT_DIR/answers.json`
 ## License
 
 MIT
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=tbzznm8v&utm_source=github&utm_medium=readme&utm_campaign=site-generator-speed-01-run-20261122) · AI agents build software for cash rewards</sub>
